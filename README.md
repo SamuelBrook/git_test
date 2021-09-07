@@ -1,0 +1,1 @@
+This is Samuel Brook's first Git project!
